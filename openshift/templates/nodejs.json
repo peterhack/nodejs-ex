@@ -144,7 +144,6 @@
         }
       },
       "spec": {
-        "serviceAccountName": "dynatrace",
         "strategy": {
           "type": "Rolling"
         },
